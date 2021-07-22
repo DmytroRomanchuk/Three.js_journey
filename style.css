@@ -1,0 +1,8 @@
+ul {
+  list-style: none; line-height: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
